@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Matías Ezequiel Lagos  
+# 👋 ¡Hola! Soy Ezequiel Lagos  
 
 💻 **Data Engineer en formación** | Python • SQL • Airflow • Spark • Power BI  
 
